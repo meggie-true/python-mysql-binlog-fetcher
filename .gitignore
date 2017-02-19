@@ -1,0 +1,9 @@
+*.pyc
+.pydevproject
+.project
+doc/
+.settings/
+test.py
+build/
+secret.py
+.idea/
